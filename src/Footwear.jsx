@@ -83,6 +83,9 @@ function Footwear() {
        if( data.name ===search1)
          return true
        })
+       setResponse(result)
+       console.log(result,"result");
+     
  }
  useEffect (()=>{
   setResponse(data)},[]
