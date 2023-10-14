@@ -1,0 +1,105 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+.logo{
+  width: 70px;
+  border-radius: 20px;
+  
+}
+.div1{
+  background: linear-gradient(pink,white,pink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.heading{
+  color: rgb(196, 72, 93);
+  font-family: cursive;
+  font-size: 40PX;
+ 
+  font-size: 50px;
+  margin-top: 20px;
+  
+}
+.div2{
+ background: linear-gradient(pink,white,pink);
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 20px;
+ color: rgb(237, 66, 94);
+  font-size: 20px;
+  text-align: center;
+  border-radius: 10px;
+
+
+  
+}
+.image{
+  width: 150px;
+  /* display: flex; */
+ 
+}
+.div3{
+  display:flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  text-align: center;
+}
+input{
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+  position: relative;
+  border-radius: 20px;
+  border: none;
+  background: linear-gradient(pink,white,pink);
+  border: 2px solid black;
+}
+i{
+  position: absolute;
+  right: 530px;
+  top: 40px;
+  color: rgb(255, 200, 0);
+
+  
+ 
+  
+}
+.button1{
+  padding: 10px;
+background:linear-gradient(pink,white,pink);
+color:rgb(118, 42, 54);
+  border: none;
+  margin-top: 5px;
+  margin-left: 500px;
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+ 
+}
+.button2{
+  padding: 10px;
+  background:linear-gradient(pink,white,pink);
+  color:rgb(118, 42, 54);
+  border: none;
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 10px;
+}
+.head{
+  text-align: center;
+ 
+  color: rgb(194, 83, 102);
+ 
+}
+.img{
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
